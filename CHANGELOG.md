@@ -17,14 +17,14 @@ upgrade to the latest version(s) of Go ASAP.
 ### COMPILER
 
 - Bump minimum Go version to 1.19
-  ([\#40](https://github.com/cometbft/cometbft-db/pull/40))
+  ([\#40](https://github.com/opzlabs/cometbft-db/pull/40))
 
 ### DEPENDENCIES
 
 - Update to the latest version of golang.org/x/net
-  ([\#40](https://github.com/cometbft/cometbft-db/pull/40))
+  ([\#40](https://github.com/opzlabs/cometbft-db/pull/40))
 - Switch rocksdb binding from gorocksdb to grocksdb, bump librocksdb dependency
-  to `v7.10.2` ([\#42](https://github.com/cometbft/cometbft-db/pull/42))
+  to `v7.10.2` ([\#42](https://github.com/opzlabs/cometbft-db/pull/42))
 
 ## v0.7.0
 
@@ -42,7 +42,7 @@ this as a dependency in any new projects.
 ### BREAKING CHANGES
 
 - Fork tm-db and rename fork to cometbft-db
-  ([\#7](https://github.com/cometbft/cometbft-db/issues/7))
+  ([\#7](https://github.com/opzlabs/cometbft-db/issues/7))
 
 ---
 

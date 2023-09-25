@@ -20,10 +20,10 @@ Security vulnerabilities should be reported if the vulnerability can be reproduc
 
 | Reporting methods                                                 |
 |-------------------------------------------------------------------|
-| [GitHub Private Vulnerability Reporting](https://github.com/cometbft/cometbft-db/security/advisories/new) |
+| [GitHub Private Vulnerability Reporting](https://github.com/opzlabs/cometbft-db/security/advisories/new) |
 | [HackerOne bug bounty program](https://hackerone.com/cosmos)      |
 
-All security vulnerabilities can be reported under GitHub's [Private vulnerability reporting](https://github.com/cometbft/cometbft-db/security/advisories/new) system.
+All security vulnerabilities can be reported under GitHub's [Private vulnerability reporting](https://github.com/opzlabs/cometbft-db/security/advisories/new) system.
 This will open a private issue for the developers. Try to fill in as much of the questions as possible. If you are not familiar
 with the CVSS system for assessing vulnerabilities, just use the Low/High/Critical severity ratings. A partially filled in report
 for a critical vulnerability is still better than no report at all.

@@ -1,4 +1,4 @@
-module github.com/cometbft/cometbft-db
+module github.com/opzlabs/cometbft-db
 
 go 1.20
 
